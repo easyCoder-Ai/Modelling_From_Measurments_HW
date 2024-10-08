@@ -9,9 +9,6 @@ This project explores various dimensionality reduction techniques and their impa
 
 - [Installation](#installation)
 - [Methods](#methods)
-  - [Data Preprocessing](#data-preprocessing)
-  - [Dimensionality Reduction Techniques](#dimensionality-reduction-techniques)
-  - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
 - [Conclusion](#conclusion)
 
