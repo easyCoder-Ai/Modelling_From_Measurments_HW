@@ -7,21 +7,15 @@ This project explores various dimensionality reduction techniques and their impa
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Introduction](#Introduction)
 - [Methods](#methods)
 - [Results](#results)
 - [Conclusion](#conclusion)
 
 
 
-## Installation
-
-To run this project, you'll need Python 3.x and the following libraries:
-
-''
-pip install numpy pandas scikit-learn xgboost matplotlib seaborn
-
-''
+## Introduction
+Dimensionality reduction is a crucial step in data analysis, especially when dealing with high-dimensional datasets. It helps uncover intrinsic patterns, reduce computational costs, and mitigate the risk of overfitting. In this project, various dimensionality reduction techniques—such as Singular Value Decomposition (SVD), Dynamic Mode Decomposition (DMD), Sparse Identification of Nonlinear Dynamical Systems (SINDy), and SHRED—were implemented and evaluated on a complex dataset. The primary goal was to test the effectiveness of these methods in improving the predictive performance of several machine learning models, and to explore how these techniques can capture both linear and non-linear dynamics of the data. By comparing the results across different configurations, this project provides insights into the strengths and limitations of each approach in real-world applications.
 
 ## Methods
 
