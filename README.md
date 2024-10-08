@@ -5,6 +5,8 @@
 
 This project explores various dimensionality reduction techniques and their impact on machine learning model performance when applied to a complex dataset. The focus is on understanding how methods like Singular Value Decomposition (SVD), Dynamic Mode Decomposition (DMD), Sparse Identification of Nonlinear Dynamical Systems (SINDy), and SHRED can improve predictive accuracy.
 
+All main results and implementations can be found in the [mainFile.ipynb](./mainFile.ipynb).
+
 ## Table of Contents
 
 - [Introduction](#Introduction)
